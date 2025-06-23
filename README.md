@@ -1,6 +1,6 @@
 # 経度と緯度を表層地盤増幅率に変換する
 AIに生成してもらったコードです。
-同じディレクトリにlon.txtとlat.txtをZ-V4-JAPAN-AMP-VS400_M250.csvが必要です。
+同じディレクトリにlon.txtとlat.txtとZ-V4-JAPAN-AMP-VS400_M250.csvが必要です。
 ## lat.txt
 調べたい緯度を一行ずつ入れます。
 ## lon.txt
